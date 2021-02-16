@@ -1,1 +1,1 @@
-pkg install php curl php-curl git -y
+pkg install php php-curl git -y
